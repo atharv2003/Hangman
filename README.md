@@ -41,8 +41,8 @@ You have 5 lives left.
 ## Installation
 No external libraries are required. Ensure you have Python installed, then clone the repository and run the script:
 ```bash
-git clone https://github.com/your-username/hangman-game.git
-cd hangman-game
+git clone https://github.com/atharv2003/Hangman.git
+cd Hangman
 python main.py
 ```
 
